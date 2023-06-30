@@ -1,6 +1,6 @@
 # CONSTITUTION OF QWOYN NETWORK
 
-#Preamble:
+# Preamble:
 
 We, the members of Qwoyn Network, come together as a vibrant community passionate about gaming and media. Guided by the principles of inclusivity, innovation, and collaboration, we establish this constitution to foster a thriving network that empowers creators, engages enthusiasts, and cultivates a sustainable and immersive gaming and media ecosystem. With this constitution, we commit ourselves to responsible governance, transparent decision-making, and the pursuit of shared goals that enhance the gaming and media experience for all.
 
